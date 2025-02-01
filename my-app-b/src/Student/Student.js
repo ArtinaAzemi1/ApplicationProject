@@ -41,7 +41,7 @@ export class Student extends Component {
                             <td>Male</td>
                             <td>2017/2018</td>
                             <td>Pishtina</td>
-                            <td>photo</td>
+                            <td>Photo</td>
                             <td>SHKI</td>
                             <td>
                                 <ButtonToolbar>
